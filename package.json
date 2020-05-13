@@ -4,7 +4,9 @@
   "description": "myfirstbootstrap",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/charanch17/bootstrap-practice/issues"
   },
-  "homepage": "https://github.com/charanch17/bootstrap-practice#readme"
+  "homepage": "https://github.com/charanch17/bootstrap-practice#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
