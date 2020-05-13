@@ -2,7 +2,7 @@
   "name": "bootstrap-practice",
   "version": "1.0.0",
   "description": "myfirstbootstrap",
-  "main": "aboutus.html",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run lite",
@@ -19,9 +19,6 @@
   },
   "homepage": "https://github.com/charanch17/bootstrap-practice#readme",
   "dependencies": {
-    "bootstrap": "^4.0.0",
-    "jquery": "^3.3.1",
-    "lite-server": "^2.5.4",
-    "popper.js": "^1.12.9"
+    "lite-server": "^2.5.4"
   }
 }
