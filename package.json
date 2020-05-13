@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-practice",
+  "version": "1.0.0",
+  "description": "myfirstbootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charanch17/bootstrap-practice.git"
+  },
+  "author": "charan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charanch17/bootstrap-practice/issues"
+  },
+  "homepage": "https://github.com/charanch17/bootstrap-practice#readme"
+}
